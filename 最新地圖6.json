@@ -2,7 +2,7 @@
   {
     "xid": 0,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "double",
@@ -20,7 +20,7 @@
   {
     "xid": 2,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "double",
@@ -38,7 +38,7 @@
   {
     "xid": 4,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "group4",
@@ -47,7 +47,7 @@
   {
     "xid": 5,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "table",
     "seatGroupType": "group4",
@@ -56,7 +56,7 @@
   {
     "xid": 6,
     "yid": 0,
-    "type": "seat",
+    "type": "enter",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "group4",
@@ -65,7 +65,7 @@
   {
     "xid": 7,
     "yid": 0,
-    "type": "none",
+    "type": "enter",
     "direction": 0,
     "seatRole": null,
     "seatGroupType": null,
@@ -182,7 +182,7 @@
   {
     "xid": 6,
     "yid": 1,
-    "type": "enter",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "group4",
@@ -191,7 +191,7 @@
   {
     "xid": 7,
     "yid": 1,
-    "type": "enter",
+    "type": "none",
     "direction": 0,
     "seatRole": null,
     "seatGroupType": null,
@@ -578,7 +578,7 @@
   {
     "xid": 8,
     "yid": 4,
-    "type": "none",
+    "type": "queue",
     "direction": 0,
     "seatRole": null,
     "seatGroupType": null,
@@ -587,7 +587,7 @@
   {
     "xid": 9,
     "yid": 4,
-    "type": "block",
+    "type": "cashier",
     "direction": 0,
     "seatRole": null,
     "seatGroupType": null,
@@ -830,7 +830,7 @@
   {
     "xid": 8,
     "yid": 6,
-    "type": "queue",
+    "type": "none",
     "direction": 0,
     "seatRole": null,
     "seatGroupType": null,
@@ -839,7 +839,7 @@
   {
     "xid": 9,
     "yid": 6,
-    "type": "cashier",
+    "type": "block",
     "direction": 0,
     "seatRole": null,
     "seatGroupType": null,

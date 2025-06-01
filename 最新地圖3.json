@@ -2,7 +2,7 @@
   {
     "xid": 0,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "double",
@@ -20,7 +20,7 @@
   {
     "xid": 2,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "double",
@@ -38,7 +38,7 @@
   {
     "xid": 4,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "group4",
@@ -47,7 +47,7 @@
   {
     "xid": 5,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "table",
     "seatGroupType": "group4",
@@ -56,7 +56,7 @@
   {
     "xid": 6,
     "yid": 0,
-    "type": "seat",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "group4",
@@ -380,7 +380,7 @@
   {
     "xid": 0,
     "yid": 3,
-    "type": "enter",
+    "type": "none",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "double",
@@ -632,7 +632,7 @@
   {
     "xid": 0,
     "yid": 5,
-    "type": "none",
+    "type": "enter",
     "direction": 0,
     "seatRole": "chair",
     "seatGroupType": "double",
